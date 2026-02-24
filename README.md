@@ -21,7 +21,7 @@ This projcet was designed to demostrate skills in Postgre SQL, Python and Tablea
 - Create a visually appealing Tableau dashboard to caputure only the most relevant information
 
 # Scope
-- The dataset contains ficticious data from 3 ficticious coffee shops across NYC
+- The dataset contains fictitious data from 3 ficticious coffee shops across NYC
 - The following findings will be presented as real insights as if the data was real 
 
 # Key Findings 
